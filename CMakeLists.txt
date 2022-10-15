@@ -3,4 +3,4 @@ project(cdiff)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cdiff main.cpp cdiff.cpp)
+add_executable(cdiff src/main.cpp src/cdiff.cpp)
